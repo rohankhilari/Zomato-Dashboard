@@ -28,7 +28,7 @@ The dataset simulates Zomato restaurant operations with tables such as:
 * Monitoring customer satisfaction via ratings.
 * Analyzing revenue growth and order patterns over time.
 
-#Goals of the Dashboard
+# Goals of the Dashboard
 * Provide a one-stop view of restaurant performance.
 * Enable business stakeholders to make data-driven decisions.
 * Showcase business intelligence capabilities (data cleaning, modeling, and visualization).
@@ -46,6 +46,8 @@ The dataset simulates Zomato restaurant operations with tables such as:
 * Pinpoints high-revenue cities/areas, supporting expansion planning.
 * Shows customer satisfaction levels, helping improve service quality.
 * Tracks seasonal and time-based trends, enabling smarter marketing campaigns.
+
+5. Screenshots & Demos 
 
 
 
